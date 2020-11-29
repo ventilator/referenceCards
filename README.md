@@ -1,6 +1,6 @@
-# Sodlering Reference Cards
+# Soldering Reference Cards
 
-Designed to be handed out to soldering kits or soldering courses to get a cheat sheet for the participants.
+Designed to be included with soldering kits or at soldering courses as a cheat sheet for participants.
 Use 85x55mm business-card prints.
 
 ## SMD Reference Card
